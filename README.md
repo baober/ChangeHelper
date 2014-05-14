@@ -1,4 +1,5 @@
 ChangeHelper
 ============
 
-变更系统助手
+Change system helper.
+A chrome extension.
